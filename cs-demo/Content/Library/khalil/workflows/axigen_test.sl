@@ -10,7 +10,7 @@ flow:
             - from: mf_admin@blackbox.net
             - to: mf_admin@blackbox.net
             - subject: CStest
-            - body: CStest
+            - body: Email from IntelliJ IDEA
             - html_email: 'true'
             - username: mf_admin@blackbox.net
             - password:
