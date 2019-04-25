@@ -9,7 +9,7 @@ flow:
             - port: '25'
             - from: mf_admin@blackbox.net
             - to: mf_admin@blackbox.net
-            - subject: CStest
+            - subject: CloudSlang via IDEA
             - body: Email from IntelliJ IDEA
             - html_email: 'true'
             - username: mf_admin@blackbox.net
